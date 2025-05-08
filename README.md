@@ -9,7 +9,7 @@
 
 I'm a passionate and results-driven engineer currently pursuing a Double Master's: an MSc in Data Science at **Trinity College Dublin** 🇮🇪 and an MEng in Computer Science from **IMT Mines Alès** 🇫🇷. My journey in tech is fueled by a love for building innovative solutions and leveraging data to solve real-world problems.
 
-I thrive on turning ideas into reality. I founded and scaled **OpenSup**, an online platform for engineering students, to **50k+ active users** and significant online engagement. I also designed and coded **Labotp.org**, a leading physics education website in France, reaching **6M+ yearly visitors**. These experiences have equipped me with strong skills in full-stack development, project management, and deploying scalable applications.
+I thrive on turning ideas into reality. I founded and scaled **OpenSup**, an online platform for engineering students, to **50k+ active users** and significant online engagement. These experiences have equipped me with strong skills in full-stack development, project management, and deploying scalable applications.
 
 ---
 
@@ -34,7 +34,7 @@ I thrive on turning ideas into reality. I founded and scaled **OpenSup**, an onl
 
 ### 🔗 Connect & Explore:
 - 📫 **Reach out:** emile.delmas@gmail.com
-- 🌍 **Check out my work on OpenSup (50k+ users!) & Labotp.org (6M+ yearly visitors!)** *(Consider adding direct links if applicable and you want to highlight them here again)*
+- 🌍 **Check out my work on OpenSup (50k+ users!)**
 
 <!-- This is where your existing LinkedIn icon can go, or use the badge above -->
 <p align="left"> <!-- Or align="center" -->
